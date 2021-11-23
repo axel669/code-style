@@ -486,6 +486,10 @@ call, always split the arguments as per the rules in the Line Wrapping section
 
 ### Flow Control
 
+#### `if`
+Only use guard-clause style if statements. Do not allow code to flow through `if`s,
+only around.
+
 #### `try`/`catch`
 Use try-catch blocks when exceptions can occur in the code that needs to be
 handled by the function. Always name the error variable `err`. Empty catch
