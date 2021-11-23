@@ -50,6 +50,7 @@ it in the right way, did not become still more complicated."
         - [Functions](#functions)
             - [Functions as arguments](#functions-as-arguments)
         - [Flow Control](#flow-control)
+            - [`if`](#if)
             - [`try`/`catch`](#trycatch)
             - [`while` Loops](#while-loops)
             - [`for` Loops](#for-loops)
